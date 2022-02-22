@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "10ef3207c43fa4c22d557c3b0df08d64",
+    "revision": "ea08bd999793282cca8020b21b6f21d7",
     "url": "/elyesmahjoubi.github.io/index.html"
   },
   {
-    "revision": "d559fe3ddb26aac74891",
-    "url": "/elyesmahjoubi.github.io/static/css/main.94bf0f4c.chunk.css"
+    "revision": "8c8b25fcc1739b1c25ed",
+    "url": "/elyesmahjoubi.github.io/static/css/main.0cc35a06.chunk.css"
   },
   {
-    "revision": "316ac2ecbf96269260cf",
-    "url": "/elyesmahjoubi.github.io/static/js/2.b2dd4c94.chunk.js"
+    "revision": "54d87a0379d1d560a846",
+    "url": "/elyesmahjoubi.github.io/static/js/2.b9bc4e34.chunk.js"
   },
   {
-    "revision": "d559fe3ddb26aac74891",
-    "url": "/elyesmahjoubi.github.io/static/js/main.4e7349ae.chunk.js"
+    "revision": "8c8b25fcc1739b1c25ed",
+    "url": "/elyesmahjoubi.github.io/static/js/main.efb0d218.chunk.js"
   },
   {
     "revision": "ef4669b4475c9c2a8763",
@@ -74,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/elyesmahjoubi.github.io/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "0802f012b2bd86aedbe83ecd079d8846",
+    "url": "/elyesmahjoubi.github.io/static/media/Resume.0802f012.pdf"
   },
   {
     "revision": "1152198c5f9e87f2cf19064f9257d757",
