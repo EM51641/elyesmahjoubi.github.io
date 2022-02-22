@@ -36,18 +36,22 @@
   line-height: 1.1;
   font-family: "Google Sans Bold";
 }
+.Social{
+  text-align: center;
+}
 
-.greeting-nickname {
+/*.greeting-nickname {
   font-size: 0px;
   line-height: 0px;
   font-family: "Google Sans Bold Italic";
-}
+}*/
 
 .greeting-text-p {
   font-size: 40px;
   line-height: 40px;
   margin-right: 40px;
   font-family: "Google Sans Medium";
+  text-align: justify;
 }
 
 .greeting-image-div > * {
@@ -73,10 +77,10 @@
     margin-top: 0px;
     text-align: center;
   }
-  .greeting-nickname {
+  /* .greeting-nickname {
     font-size: 0px;
     text-align: center;
-  }
+  } */
   .greeting-text-p {
     font-size: 16px;
     margin-right: 0px;
@@ -87,9 +91,9 @@
     display: block;
   }
 
-  .portfolio-repo-btn-div {
+ /*.portfolio-repo-btn-div {
     width: 100%;
     display: flex;
     justify-content: center;
-  }
+  } */
 }

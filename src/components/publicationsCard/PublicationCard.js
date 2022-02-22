@@ -25,14 +25,14 @@ export default function GithubRepoCard({ repo, theme }) {
           <p className="publication-description" style={{ color: theme.text }}>
             {repo.description}
           </p>
-          <div className="publication-details">
+          {/*<div className="publication-details">
             <p
               className="publication-creation-date subTitle"
               style={{ color: theme.secondaryText }}
             >
               Published on {repo.createdAt.split("T")[0]}
             </p>
-          </div>
+           </div> */}
           {/* <div className="repo-stats">
           <div className="repo-left-stat">
             <span>

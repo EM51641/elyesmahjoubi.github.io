@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Elyes Mahjoubi",
   description:
-    "Passionated of Maths and Finance.",
+    "I have a great passion for applied mathematics. I currently graduated from HEC Lausanne, where I inherited a strong technical and I am, now, aiming to specialize in mathematical modeling and quantitative research.",
     og: {
     title: "Elyes Mahjoubi's Portfolio",
     type: "website",
@@ -22,7 +22,7 @@ const greeting = {
   title: "Elyes Mahjoubi",
   logo_name: "Elyes Mahjoubi",
   //nickname: "EM51641",
-  subTitle: "Passionated of Maths and Finance.",
+  subTitle: "Passionated of Maths and Finance. I am now aiming to specialize in mathematical modeling and quantitative research.",
   resumeLink:
     "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
   //portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
