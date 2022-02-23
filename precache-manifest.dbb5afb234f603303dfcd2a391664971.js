@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ad1d55ff76da2b432a2286b39f65234c",
+    "revision": "1e6b3902f94b4afacf79cb39f2736fc0",
     "url": "/elyesmahjoubi.github.io/index.html"
   },
   {
-    "revision": "04b39343ad14acbab1f8",
+    "revision": "389a01f04afd39c3fe54",
     "url": "/elyesmahjoubi.github.io/static/css/main.810d9e79.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elyesmahjoubi.github.io/static/js/2.5f88eb19.chunk.js"
   },
   {
-    "revision": "04b39343ad14acbab1f8",
-    "url": "/elyesmahjoubi.github.io/static/js/main.c62dadb2.chunk.js"
+    "revision": "389a01f04afd39c3fe54",
+    "url": "/elyesmahjoubi.github.io/static/js/main.d98fd1f0.chunk.js"
   },
   {
     "revision": "dfd779b5fa4d84bfb617",
@@ -234,10 +234,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "571a8584e69ecfbe326c8b8385fbbf54",
     "url": "/elyesmahjoubi.github.io/static/media/iiitk_logo.571a8584.png"
-  },
-  {
-    "revision": "a0686463b287799294a7c9e8303acd07",
-    "url": "/elyesmahjoubi.github.io/static/media/imperial_logo.a0686463.png"
   },
   {
     "revision": "29152cf756a1facead5393c32e373371",

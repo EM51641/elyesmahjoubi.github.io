@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/elyesmahjoubi.github.io/static/css/main.810d9e79.chunk.css",
-    "main.js": "/elyesmahjoubi.github.io/static/js/main.c62dadb2.chunk.js",
-    "main.js.map": "/elyesmahjoubi.github.io/static/js/main.c62dadb2.chunk.js.map",
+    "main.js": "/elyesmahjoubi.github.io/static/js/main.d98fd1f0.chunk.js",
+    "main.js.map": "/elyesmahjoubi.github.io/static/js/main.d98fd1f0.chunk.js.map",
     "runtime-main.js": "/elyesmahjoubi.github.io/static/js/runtime-main.c51c3b29.js",
     "runtime-main.js.map": "/elyesmahjoubi.github.io/static/js/runtime-main.c51c3b29.js.map",
     "static/js/2.5f88eb19.chunk.js": "/elyesmahjoubi.github.io/static/js/2.5f88eb19.chunk.js",
     "static/js/2.5f88eb19.chunk.js.map": "/elyesmahjoubi.github.io/static/js/2.5f88eb19.chunk.js.map",
     "index.html": "/elyesmahjoubi.github.io/index.html",
-    "precache-manifest.97588eb1d353a41429c3e997d733c21f.js": "/elyesmahjoubi.github.io/precache-manifest.97588eb1d353a41429c3e997d733c21f.js",
+    "precache-manifest.dbb5afb234f603303dfcd2a391664971.js": "/elyesmahjoubi.github.io/precache-manifest.dbb5afb234f603303dfcd2a391664971.js",
     "service-worker.js": "/elyesmahjoubi.github.io/service-worker.js",
     "static/css/main.810d9e79.chunk.css.map": "/elyesmahjoubi.github.io/static/css/main.810d9e79.chunk.css.map",
     "static/media/index.css": "/elyesmahjoubi.github.io/static/media/Montserrat-Regular.ee653992.ttf",
@@ -44,7 +44,6 @@
     "static/media/googleAssistant.svg": "/elyesmahjoubi.github.io/static/media/googleAssistant.a6addc3f.svg",
     "static/media/ibm_logo.png": "/elyesmahjoubi.github.io/static/media/ibm_logo.d3fccbe1.png",
     "static/media/iiitk_logo.png": "/elyesmahjoubi.github.io/static/media/iiitk_logo.571a8584.png",
-    "static/media/imperial_logo.png": "/elyesmahjoubi.github.io/static/media/imperial_logo.a0686463.png",
     "static/media/intel_logo.jpg": "/elyesmahjoubi.github.io/static/media/intel_logo.29152cf7.jpg",
     "static/media/jsFramework.svg": "/elyesmahjoubi.github.io/static/media/jsFramework.5b4a6449.svg",
     "static/media/legato_logo.png": "/elyesmahjoubi.github.io/static/media/legato_logo.c597fbde.png",
@@ -66,6 +65,6 @@
     "static/js/runtime-main.c51c3b29.js",
     "static/js/2.5f88eb19.chunk.js",
     "static/css/main.810d9e79.chunk.css",
-    "static/js/main.c62dadb2.chunk.js"
+    "static/js/main.d98fd1f0.chunk.js"
   ]
 }
