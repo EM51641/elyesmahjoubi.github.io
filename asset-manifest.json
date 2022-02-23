@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/elyesmahjoubi.github.io/static/css/main.94bf0f4c.chunk.css",
-    "main.js": "/elyesmahjoubi.github.io/static/js/main.4e7349ae.chunk.js",
-    "main.js.map": "/elyesmahjoubi.github.io/static/js/main.4e7349ae.chunk.js.map",
-    "runtime-main.js": "/elyesmahjoubi.github.io/static/js/runtime-main.3ef90bad.js",
-    "runtime-main.js.map": "/elyesmahjoubi.github.io/static/js/runtime-main.3ef90bad.js.map",
-    "static/js/2.b2dd4c94.chunk.js": "/elyesmahjoubi.github.io/static/js/2.b2dd4c94.chunk.js",
-    "static/js/2.b2dd4c94.chunk.js.map": "/elyesmahjoubi.github.io/static/js/2.b2dd4c94.chunk.js.map",
+    "main.css": "/elyesmahjoubi.github.io/static/css/main.810d9e79.chunk.css",
+    "main.js": "/elyesmahjoubi.github.io/static/js/main.c62dadb2.chunk.js",
+    "main.js.map": "/elyesmahjoubi.github.io/static/js/main.c62dadb2.chunk.js.map",
+    "runtime-main.js": "/elyesmahjoubi.github.io/static/js/runtime-main.c51c3b29.js",
+    "runtime-main.js.map": "/elyesmahjoubi.github.io/static/js/runtime-main.c51c3b29.js.map",
+    "static/js/2.5f88eb19.chunk.js": "/elyesmahjoubi.github.io/static/js/2.5f88eb19.chunk.js",
+    "static/js/2.5f88eb19.chunk.js.map": "/elyesmahjoubi.github.io/static/js/2.5f88eb19.chunk.js.map",
     "index.html": "/elyesmahjoubi.github.io/index.html",
-    "precache-manifest.913e78198c5ed90ac46672a538c478a0.js": "/elyesmahjoubi.github.io/precache-manifest.913e78198c5ed90ac46672a538c478a0.js",
+    "precache-manifest.97588eb1d353a41429c3e997d733c21f.js": "/elyesmahjoubi.github.io/precache-manifest.97588eb1d353a41429c3e997d733c21f.js",
     "service-worker.js": "/elyesmahjoubi.github.io/service-worker.js",
-    "static/css/main.94bf0f4c.chunk.css.map": "/elyesmahjoubi.github.io/static/css/main.94bf0f4c.chunk.css.map",
+    "static/css/main.810d9e79.chunk.css.map": "/elyesmahjoubi.github.io/static/css/main.810d9e79.chunk.css.map",
     "static/media/index.css": "/elyesmahjoubi.github.io/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/CV_photo.jpg": "/elyesmahjoubi.github.io/static/media/CV_photo.3cd5d792.jpg",
     "static/media/Copula_ds.png": "/elyesmahjoubi.github.io/static/media/Copula_ds.8de48884.png",
@@ -18,6 +18,7 @@
     "static/media/HEC_Lausanne Logo.png": "/elyesmahjoubi.github.io/static/media/HEC_Lausanne Logo.4f16948a.png",
     "static/media/MC_demo.png": "/elyesmahjoubi.github.io/static/media/MC_demo.54f34bb7.png",
     "static/media/Math_Fin.png": "/elyesmahjoubi.github.io/static/media/Math_Fin.04b51c29.png",
+    "static/media/Resume.pdf": "/elyesmahjoubi.github.io/static/media/Resume.0802f012.pdf",
     "static/media/SSVI_vs.png": "/elyesmahjoubi.github.io/static/media/SSVI_vs.1152198c.png",
     "static/media/VaR.png": "/elyesmahjoubi.github.io/static/media/VaR.54caf44d.png",
     "static/media/Volatility_Surface.png": "/elyesmahjoubi.github.io/static/media/Volatility_Surface.51b47be2.png",
@@ -62,9 +63,9 @@
     "static/media/ui_ux_design.svg": "/elyesmahjoubi.github.io/static/media/ui_ux_design.d6363089.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3ef90bad.js",
-    "static/js/2.b2dd4c94.chunk.js",
-    "static/css/main.94bf0f4c.chunk.css",
-    "static/js/main.4e7349ae.chunk.js"
+    "static/js/runtime-main.c51c3b29.js",
+    "static/js/2.5f88eb19.chunk.js",
+    "static/css/main.810d9e79.chunk.css",
+    "static/js/main.c62dadb2.chunk.js"
   ]
 }
