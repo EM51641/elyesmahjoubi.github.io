@@ -15,13 +15,17 @@ export interface StarRatingProps {
   overrides?: RatingOverrides;
   value?: number;
   numItems?: number;
+  readOnly?: boolean;
   onChange?: (args: {value: number}) => any;
+  size?: number;
 }
 
 export interface EmoticonRatingProps {
   overrides?: RatingOverrides;
   value?: number;
+  readOnly?: boolean;
   onChange?: (args: {value: number}) => any;
+  size?: number;
 }
 export class StarRating extends React.Component<StarRatingProps, RatingState> {
   selectItem(value: number): void;

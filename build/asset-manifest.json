@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/elyesmahjoubi.github.io/static/css/main.0cc35a06.chunk.css",
-    "main.js": "/elyesmahjoubi.github.io/static/js/main.efb0d218.chunk.js",
-    "main.js.map": "/elyesmahjoubi.github.io/static/js/main.efb0d218.chunk.js.map",
-    "runtime-main.js": "/elyesmahjoubi.github.io/static/js/runtime-main.3ef90bad.js",
-    "runtime-main.js.map": "/elyesmahjoubi.github.io/static/js/runtime-main.3ef90bad.js.map",
-    "static/js/2.b9bc4e34.chunk.js": "/elyesmahjoubi.github.io/static/js/2.b9bc4e34.chunk.js",
-    "static/js/2.b9bc4e34.chunk.js.map": "/elyesmahjoubi.github.io/static/js/2.b9bc4e34.chunk.js.map",
+    "main.css": "/elyesmahjoubi.github.io/static/css/main.810d9e79.chunk.css",
+    "main.js": "/elyesmahjoubi.github.io/static/js/main.d98fd1f0.chunk.js",
+    "main.js.map": "/elyesmahjoubi.github.io/static/js/main.d98fd1f0.chunk.js.map",
+    "runtime-main.js": "/elyesmahjoubi.github.io/static/js/runtime-main.c51c3b29.js",
+    "runtime-main.js.map": "/elyesmahjoubi.github.io/static/js/runtime-main.c51c3b29.js.map",
+    "static/js/2.5f88eb19.chunk.js": "/elyesmahjoubi.github.io/static/js/2.5f88eb19.chunk.js",
+    "static/js/2.5f88eb19.chunk.js.map": "/elyesmahjoubi.github.io/static/js/2.5f88eb19.chunk.js.map",
     "index.html": "/elyesmahjoubi.github.io/index.html",
-    "precache-manifest.6c5556df4fc96f63a1381cbb74194fcc.js": "/elyesmahjoubi.github.io/precache-manifest.6c5556df4fc96f63a1381cbb74194fcc.js",
+    "precache-manifest.dbb5afb234f603303dfcd2a391664971.js": "/elyesmahjoubi.github.io/precache-manifest.dbb5afb234f603303dfcd2a391664971.js",
     "service-worker.js": "/elyesmahjoubi.github.io/service-worker.js",
-    "static/css/main.0cc35a06.chunk.css.map": "/elyesmahjoubi.github.io/static/css/main.0cc35a06.chunk.css.map",
+    "static/css/main.810d9e79.chunk.css.map": "/elyesmahjoubi.github.io/static/css/main.810d9e79.chunk.css.map",
     "static/media/index.css": "/elyesmahjoubi.github.io/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/CV_photo.jpg": "/elyesmahjoubi.github.io/static/media/CV_photo.3cd5d792.jpg",
     "static/media/Copula_ds.png": "/elyesmahjoubi.github.io/static/media/Copula_ds.8de48884.png",
@@ -44,7 +44,6 @@
     "static/media/googleAssistant.svg": "/elyesmahjoubi.github.io/static/media/googleAssistant.a6addc3f.svg",
     "static/media/ibm_logo.png": "/elyesmahjoubi.github.io/static/media/ibm_logo.d3fccbe1.png",
     "static/media/iiitk_logo.png": "/elyesmahjoubi.github.io/static/media/iiitk_logo.571a8584.png",
-    "static/media/imperial_logo.png": "/elyesmahjoubi.github.io/static/media/imperial_logo.a0686463.png",
     "static/media/intel_logo.jpg": "/elyesmahjoubi.github.io/static/media/intel_logo.29152cf7.jpg",
     "static/media/jsFramework.svg": "/elyesmahjoubi.github.io/static/media/jsFramework.5b4a6449.svg",
     "static/media/legato_logo.png": "/elyesmahjoubi.github.io/static/media/legato_logo.c597fbde.png",
@@ -63,9 +62,9 @@
     "static/media/ui_ux_design.svg": "/elyesmahjoubi.github.io/static/media/ui_ux_design.d6363089.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3ef90bad.js",
-    "static/js/2.b9bc4e34.chunk.js",
-    "static/css/main.0cc35a06.chunk.css",
-    "static/js/main.efb0d218.chunk.js"
+    "static/js/runtime-main.c51c3b29.js",
+    "static/js/2.5f88eb19.chunk.js",
+    "static/css/main.810d9e79.chunk.css",
+    "static/js/main.d98fd1f0.chunk.js"
   ]
 }

@@ -144,7 +144,7 @@ const certifications = {
       certificate_link:
         "https://www.coursera.org/account/accomplishments/certificate/H2YL455VALEW",
       alt_name: "Imperial College London",
-      color_code: "#8C151599",
+      color_code: "#003E74",
     },
   ],
 };
