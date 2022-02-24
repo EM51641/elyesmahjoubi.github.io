@@ -11,14 +11,16 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
-
 importScripts(
-  "/elyesmahjoubi.github.io/precache-manifest.bfc5c1d601367ef5e03e4c4fbada9406.js"
+  "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js"
 );
 
-self.addEventListener('message', (event) => {
-  if (event.data && event.data.type === 'SKIP_WAITING') {
+importScripts(
+  "/elyesmahjoubi.github.io/precache-manifest.313b6a2fdc373a6367b117250d849d25.js"
+);
+
+self.addEventListener("message", (event) => {
+  if (event.data && event.data.type === "SKIP_WAITING") {
     self.skipWaiting();
   }
 });
@@ -33,7 +35,9 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/elyesmahjoubi.github.io/index.html"), {
-  
-  blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
-});
+workbox.routing.registerNavigationRoute(
+  workbox.precaching.getCacheKeyForURL("/elyesmahjoubi.github.io/index.html"),
+  {
+    blacklist: [/^\/_/, /\/[^/?]+\.[^/]+$/],
+  }
+);

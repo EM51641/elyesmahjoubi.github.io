@@ -10,7 +10,7 @@ const seo = {
   title: "Elyes Mahjoubi",
   description:
     "I have a great passion for applied mathematics. I currently graduated from HEC Lausanne, where I inherited a strong technical and I am, now, aiming to specialize in mathematical modeling and quantitative research.",
-    og: {
+  og: {
     title: "Elyes Mahjoubi's Portfolio",
     type: "website",
     url: "https://em51641.github.io",
@@ -22,7 +22,8 @@ const greeting = {
   title: "Elyes Mahjoubi",
   logo_name: "Elyes Mahjoubi",
   //nickname: "EM51641",
-  subTitle: "Passionated of Maths and Finance. I am now aiming to specialize in mathematical modeling and quantitative research.",
+  subTitle:
+    "Passionate about Maths and Finance, I aim to specialize in mathematical modeling and quantitative research.",
   resumeLink:
     "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
   //portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
@@ -59,7 +60,7 @@ const skills = {
       title: "Mathematical Modeling & Finance",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing stochastic volatility models to fairly evaluate option prices",
+        "⚡ Developing stochastic volatility models to evaluate option prices fairly",
         "⚡ Experience in creating risk management tools to find portfolios' exposures",
         "⚡ Complex quantitative modeling for dynamic forecasting and time series analysis",
       ],
@@ -97,11 +98,12 @@ const skills = {
         },
       ],
     },
-],
+  ],
 };
 
 const competitiveSites = {
-  competitiveSites: []};
+  competitiveSites: [],
+};
 
 const degrees = {
   degrees: [
@@ -120,18 +122,18 @@ const degrees = {
     },
 
     {
-    title: "HEC Lausanne, University of Lausanne",
-    subtitle: "M.S. in Finance",
-    logo_path: "HEC_Lausanne Logo.png",
-    alt_name: "HEC Lausanne",
-    duration: "2019 - 2021",
-    descriptions: [
-      "⚡ Emphasised on mathematical finance.",
-      "⚡ Major in asset and risk Management.",
-      "⚡ Academic thesis on the topic of 'Rough Volatility Modeling' in option pricing obtained with a grade of 6.0/6.0.",
-    ],
-    website_link: "https://www.unil.ch",
-   },
+      title: "HEC Lausanne, University of Lausanne",
+      subtitle: "M.S. in Finance",
+      logo_path: "HEC_Lausanne Logo.png",
+      alt_name: "HEC Lausanne",
+      duration: "2019 - 2021",
+      descriptions: [
+        "⚡ Emphasised on mathematical finance.",
+        "⚡ Major in asset and risk Management.",
+        "⚡ Academic thesis on the topic of 'Rough Volatility Modeling' in option pricing obtained with a grade of 6.0/6.0.",
+      ],
+      website_link: "https://www.unil.ch",
+    },
   ],
 };
 
@@ -164,7 +166,8 @@ const experience = {
         {
           title: " Research on the topic of Rough Volatility",
           company: "HEC Lausanne, University of Lausanne",
-          company_url: "https://github.com/EM51641/Master-Thesis-/blob/main/Master's%20Thesis.pdf",
+          company_url:
+            "https://github.com/EM51641/Master-Thesis-/blob/main/Master's%20Thesis.pdf",
           logo_path: "HEC_Lausanne Logo.png",
           duration: "February - September 2021 ",
           location: "Lausanne, Switzerland",
@@ -172,8 +175,8 @@ const experience = {
             "⚡ Compared the efficiency and accuracy of a slate of option pricing models.",
             "⚡ Modelized volatility surfaces of various models using Gaussian processes.",
             "⚡ Used machine learning to forecast future market expectations based on the current term structure.",
-            "⚡ Massively consolidated my knowledge of non-Markovian processes."
-            ],
+            "⚡ Massively consolidated my knowledge of non-Markovian processes.",
+          ],
           color: "#0879bf",
         },
       ],
@@ -192,8 +195,8 @@ const experience = {
             "⚡ Recommended both SICAVs and FCPs mutual funds to customers.",
             "⚡ Updated very known Financial metrics for some mutual funds.",
             "⚡ Studied Tunisia’s investment laws for mutual funds.",
-            "⚡ Proposed a more efficient metric to analyze the conditional value-at-risk using a famous research paper."
-            ],
+            "⚡ Proposed a more efficient metric to analyze the conditional value-at-risk using a famous research paper.",
+          ],
           color: "#0879bf",
         },
       ],
@@ -209,11 +212,10 @@ const experience = {
           logo_path: "mosaique_logo.jpeg",
           duration: "Janvier 2018 - Fevrier 2019",
           location: "Lausanne, Switzerland",
-          description:
-          [
+          description: [
             "⚡ Supervised participatory conversations between geopolitical experts and students.",
             "⚡ Supervised a Debate on the 16th October 2018 between two political groups: UDC and PS.",
-            ],
+          ],
           color: "#4285F4",
         },
         {
@@ -223,9 +225,9 @@ const experience = {
           logo_path: "mosaique_logo.jpeg",
           duration: "February 2019",
           location: "Lausanne, Switzerland",
-          description:[
+          description: [
             "⚡ Represented Luxembourg at the NATO committee.",
-            "⚡ Participated in managing a crisis simulation between the United States of America and Russia."
+            "⚡ Participated in managing a crisis simulation between the United States of America and Russia.",
           ],
           color: "#D83B01",
         },
@@ -236,9 +238,9 @@ const experience = {
           logo_path: "mun_logo.jpeg",
           duration: "Mars 2018",
           location: "Panama, Panama City",
-          description:[
+          description: [
             "⚡ Represented Colombia at the World Health Organization committee.",
-            "⚡ Helped propose a cooperation campaign across the committee members for the typical treatment of mental illnesses."
+            "⚡ Helped propose a cooperation campaign across the committee members for the typical treatment of mental illnesses.",
           ],
           color: "#000000",
         },
@@ -257,8 +259,7 @@ const projectsHeader = {
 
 const publicationsHeader = {
   title: "Research",
-  description:
-    "I have worked on few project research.",
+  description: "I have worked on few project research.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -272,21 +273,20 @@ const contactPageData = {
   },
   //blogSection: {
   //  title: "Email Address",
-    //subtitle:
-    //  "For individual fundamental empowerment, you can ",
+  //subtitle:
+  //  "For individual fundamental empowerment, you can ",
   //  link: "elyesmahjoubi@gmail.com",
   //  avatar_image_path: "address_image.svg",
   //},
   addressSection: {
     title: "Email Address",
-    subtitle:
-      "If you have a request about my work, you can email me at:",
-      location_map_link: "mailto:elyesmahjoubi@gmail.com",
-      avatar_image_path: "address_image.svg",
+    subtitle: "If you have a request about my work, you can email me at:",
+    location_map_link: "mailto:elyesmahjoubi@gmail.com",
+    avatar_image_path: "address_image.svg",
   },
   phoneSection: {
-  //  title: "Phone Number",
-  //  subtitle: "+91 8320758513",
+    //  title: "Phone Number",
+    //  subtitle: "+91 8320758513",
   },
 };
 
