@@ -710,7 +710,7 @@
         },
         I = "Projects",
         O =
-          "My work focuses on the use of a vast variety of stochastic models to manage portfolios' exposures and estimate options' prices.",
+          "My work focuses on using various stochastic models to manage portfolios' exposures and estimate options' prices.",
         B = "Research",
         S = "I have worked on several research projects.",
         Q = {
@@ -718,7 +718,7 @@
             title: "Contact Me",
             profile_image_path: "CV_photo.jpg",
             description:
-              "You can message me, I can help you in my fields of interests.",
+              "You can message me, and I can help you in my fields of interest.",
           },
           addressSection: {
             title: "Email Address",
@@ -3884,4 +3884,4 @@
   ]),
   [[103, 1, 2]],
 ]);
-//# sourceMappingURL=main.55ee590e.chunk.js.map
+//# sourceMappingURL=main.54fa5e7b.chunk.js.map

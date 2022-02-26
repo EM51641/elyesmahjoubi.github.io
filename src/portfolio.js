@@ -253,7 +253,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My work focuses on the use of a vast variety of stochastic models to manage portfolios' exposures and estimate options' prices.",
+    "My work focuses on using various stochastic models to manage portfolios' exposures and estimate options' prices.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -269,7 +269,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "CV_photo.jpg",
     description:
-      "You can message me, I can help you in my fields of interests.",
+      "You can message me, and I can help you in my fields of interest.",
   },
   //blogSection: {
   //  title: "Email Address",
