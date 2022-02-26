@@ -1,6 +1,92 @@
-{"data":[ {"id":"MDQ6VXNlcjM5NTgxNzA5","name":"VaRpy","createdAt":"2020-03-06T16:26:54Z","url":"https://github.com/EM51641/VaRpy","description":"Value-at-Risk Evaluator","isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"}]},
-{"id":"MDQ6VXNlcjM5NTgxNzA5","name":"pyinsurance","createdAt":"2020-06-03T11:53:55Z","url":"https://github.com/EM51641/pyinsurance-","description":"This project is meant to provide resources to allow users to create their own insured porfolio","isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"}]},
-{"id":"MDQ6VXNlcjM5NTgxNzA5","name":"SuperOption","createdAt":"2020-06-19T14:24:55Z","url":"https://github.com/EM51641/SuperOption","description":"do technical charting on stocks and screen options based on thousands of stocks listed on the market.","isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"}]},
-{"id":"MDQ6VXNlcjM5NTgxNzA5","name":"Can we trade oil sensitivity?","createdAt":"2018-11-03T05:00:56Z","url":"https://github.com/EM51641/Crude-Oil-and-Equity","description":"On this project, we try to trade oil stocks based on the assumption increments follow a mean reverting process.","isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"},{"name":"Jupyter Notebook","iconifyClass":"logos-jupyter"}]},
-{"id":"MDQ6VXNlcjM5NTgxNzA5","name":"A pair trading strategy based on a PCA analysis","createdAt":"2019-08-13T13:13:00Z","url":"https://github.com/EM51641/PCA-and-pair-trading-strategy-","description":"This algorithm is designed to work on the QuantConnect platform and uses statistical arbitrage to make trades using an up-to-date universe of a SP500 index replication (QC500).","isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"}]},
-{"id":"MDQ6VXNlcjM5NTgxNzA5","name":"Temenos Valuation","createdAt":"2019-04-18T17:25:51Z","url":"https://github.com/EM51641/Temenos-Valuation-Fall-2020-","description":"Valuation of a major SMI Company","isFork":false,"languages":[{"name":"Excel","iconifyClass":"vscode-icons:file-type-excel"}]}]}
+{
+  "data": [
+    {
+      "id": "MDQ6VXNlcjM5NTgxNzA5",
+      "name": "VaRpy",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "url": "https://github.com/EM51641/VaRpy",
+      "description": "Value-at-Risk Evaluator",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDQ6VXNlcjM5NTgxNzA5",
+      "name": "Pyinsurance",
+      "createdAt": "2020-06-03T11:53:55Z",
+      "url": "https://github.com/EM51641/pyinsurance-",
+      "description": "This project is meant to provide resources to allow users to create their own insured porfolio",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDQ6VXNlcjM5NTgxNzA5",
+      "name": "SuperOption",
+      "createdAt": "2020-06-19T14:24:55Z",
+      "url": "https://github.com/EM51641/SuperOption",
+      "description": "do technical charting on stocks and screen options based on thousands of stocks listed on the market.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDQ6VXNlcjM5NTgxNzA5",
+      "name": "Can we trade oil sensitivity?",
+      "createdAt": "2018-11-03T05:00:56Z",
+      "url": "https://github.com/EM51641/Crude-Oil-and-Equity",
+      "description": "On this project, we try to trade oil stocks based on the assumption increments follow a mean reverting process.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDQ6VXNlcjM5NTgxNzA5",
+      "name": "A pair trading strategy based on a PCA analysis",
+      "createdAt": "2019-08-13T13:13:00Z",
+      "url": "https://github.com/EM51641/PCA-and-pair-trading-strategy-",
+      "description": "This algorithm is designed to work on the QuantConnect platform and uses statistical arbitrage to make trades using an up-to-date universe of a SP500 index replication (QC500).",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDQ6VXNlcjM5NTgxNzA5",
+      "name": "Temenos Valuation",
+      "createdAt": "2019-04-18T17:25:51Z",
+      "url": "https://github.com/EM51641/Temenos-Valuation-Fall-2020-",
+      "description": "Valuation of a major SMI Company",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Excel",
+          "iconifyClass": "vscode-icons:file-type-excel"
+        }
+      ]
+    }
+  ]
+}
