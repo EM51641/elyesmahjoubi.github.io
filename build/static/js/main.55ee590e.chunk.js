@@ -710,9 +710,9 @@
         },
         I = "Projects",
         O =
-          "My projects makes use of vast variety of stochastic models to manage portfolios' exposures.",
+          "My work focuses on the use of a vast variety of stochastic models to manage portfolios' exposures and estimate options' prices.",
         B = "Research",
-        S = "I have worked on few project research.",
+        S = "I have worked on several research projects.",
         Q = {
           contactSection: {
             title: "Contact Me",
@@ -3884,4 +3884,4 @@
   ]),
   [[103, 1, 2]],
 ]);
-//# sourceMappingURL=main.a663a069.chunk.js.map
+//# sourceMappingURL=main.55ee590e.chunk.js.map

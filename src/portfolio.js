@@ -253,13 +253,13 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of stochastic models to manage portfolios' exposures.",
+    "My work focuses on the use of a vast variety of stochastic models to manage portfolios' exposures and estimate options' prices.",
   avatar_image_path: "projects_image.svg",
 };
 
 const publicationsHeader = {
   title: "Research",
-  description: "I have worked on few project research.",
+  description: "I have worked on several research projects.",
   avatar_image_path: "projects_image.svg",
 };
 

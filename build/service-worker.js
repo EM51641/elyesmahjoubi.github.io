@@ -16,7 +16,7 @@ importScripts(
 );
 
 importScripts(
-  "/elyesmahjoubi.github.io/precache-manifest.43881c99af2092a664e5bfc032c1675e.js"
+  "/elyesmahjoubi.github.io/precache-manifest.61757ca8a9469c5cdc1cb8230f5e19ba.js"
 );
 
 self.addEventListener("message", (event) => {
