@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/elyesmahjoubi.github.io/static/css/main.f3afe2ae.chunk.css",
+    "main.css": "/elyesmahjoubi.github.io/static/css/main.e5c2a8a6.chunk.css",
     "main.js": "/elyesmahjoubi.github.io/static/js/main.0f1984d4.chunk.js",
     "main.js.map": "/elyesmahjoubi.github.io/static/js/main.0f1984d4.chunk.js.map",
     "runtime-main.js": "/elyesmahjoubi.github.io/static/js/runtime-main.09bc0716.js",
@@ -8,9 +8,9 @@
     "static/js/2.3d439ad9.chunk.js": "/elyesmahjoubi.github.io/static/js/2.3d439ad9.chunk.js",
     "static/js/2.3d439ad9.chunk.js.map": "/elyesmahjoubi.github.io/static/js/2.3d439ad9.chunk.js.map",
     "index.html": "/elyesmahjoubi.github.io/index.html",
-    "precache-manifest.89ae7bd1fa55792ee6d6579a144da59c.js": "/elyesmahjoubi.github.io/precache-manifest.89ae7bd1fa55792ee6d6579a144da59c.js",
+    "precache-manifest.e4b78311158326cfec79617497b72ac2.js": "/elyesmahjoubi.github.io/precache-manifest.e4b78311158326cfec79617497b72ac2.js",
     "service-worker.js": "/elyesmahjoubi.github.io/service-worker.js",
-    "static/css/main.f3afe2ae.chunk.css.map": "/elyesmahjoubi.github.io/static/css/main.f3afe2ae.chunk.css.map",
+    "static/css/main.e5c2a8a6.chunk.css.map": "/elyesmahjoubi.github.io/static/css/main.e5c2a8a6.chunk.css.map",
     "static/media/index.css": "/elyesmahjoubi.github.io/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/CV_photo.jpg": "/elyesmahjoubi.github.io/static/media/CV_photo.3cd5d792.jpg",
     "static/media/Copula_ds.svg": "/elyesmahjoubi.github.io/static/media/Copula_ds.f68eff2a.svg",
@@ -65,7 +65,7 @@
   "entrypoints": [
     "static/js/runtime-main.09bc0716.js",
     "static/js/2.3d439ad9.chunk.js",
-    "static/css/main.f3afe2ae.chunk.css",
+    "static/css/main.e5c2a8a6.chunk.css",
     "static/js/main.0f1984d4.chunk.js"
   ]
 }
