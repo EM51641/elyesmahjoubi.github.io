@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9819d8d0cee75069c4056358c3b7460d",
+    "revision": "0870387b92f8cf86a774457bd3d2d319",
     "url": "/elyesmahjoubi.github.io/index.html"
   },
   {
-    "revision": "952b34f787e9cd8b8fea",
-    "url": "/elyesmahjoubi.github.io/static/css/main.e5c2a8a6.chunk.css"
+    "revision": "ad676190ee294d3ab221",
+    "url": "/elyesmahjoubi.github.io/static/css/main.4a1a5090.chunk.css"
   },
   {
-    "revision": "6a9fea5cb995062226d3",
-    "url": "/elyesmahjoubi.github.io/static/js/2.3d439ad9.chunk.js"
+    "revision": "827abc0b7383e8d619d2",
+    "url": "/elyesmahjoubi.github.io/static/js/2.cf520050.chunk.js"
   },
   {
-    "revision": "952b34f787e9cd8b8fea",
-    "url": "/elyesmahjoubi.github.io/static/js/main.0f1984d4.chunk.js"
+    "revision": "ad676190ee294d3ab221",
+    "url": "/elyesmahjoubi.github.io/static/js/main.5e757755.chunk.js"
   },
   {
     "revision": "b0446ecc1c508847ab5a",
@@ -26,10 +26,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3cd5d792593e07ccecace179992b6a4f",
     "url": "/elyesmahjoubi.github.io/static/media/CV_photo.3cd5d792.jpg"
-  },
-  {
-    "revision": "f68eff2acf01523bb41b21475a03d44d",
-    "url": "/elyesmahjoubi.github.io/static/media/Copula_ds.f68eff2a.svg"
   },
   {
     "revision": "54d94a295c213598d7b06baeaff43676",
@@ -286,6 +282,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "71408db71465afd742233e4a96f06526",
     "url": "/elyesmahjoubi.github.io/static/media/pwa.71408db7.png"
+  },
+  {
+    "revision": "b45d92e13dab5b8795857a97a07f3c4b",
+    "url": "/elyesmahjoubi.github.io/static/media/ret_distribution.b45d92e1.svg"
   },
   {
     "revision": "2c497738be3831492aeb6bdc43f19154",
