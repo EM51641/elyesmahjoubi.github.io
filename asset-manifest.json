@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/elyesmahjoubi.github.io/static/css/main.4a1a5090.chunk.css",
-    "main.js": "/elyesmahjoubi.github.io/static/js/main.5e757755.chunk.js",
-    "main.js.map": "/elyesmahjoubi.github.io/static/js/main.5e757755.chunk.js.map",
+    "main.js": "/elyesmahjoubi.github.io/static/js/main.4a8a0a25.chunk.js",
+    "main.js.map": "/elyesmahjoubi.github.io/static/js/main.4a8a0a25.chunk.js.map",
     "runtime-main.js": "/elyesmahjoubi.github.io/static/js/runtime-main.09bc0716.js",
     "runtime-main.js.map": "/elyesmahjoubi.github.io/static/js/runtime-main.09bc0716.js.map",
     "static/js/2.cf520050.chunk.js": "/elyesmahjoubi.github.io/static/js/2.cf520050.chunk.js",
     "static/js/2.cf520050.chunk.js.map": "/elyesmahjoubi.github.io/static/js/2.cf520050.chunk.js.map",
     "index.html": "/elyesmahjoubi.github.io/index.html",
-    "precache-manifest.8d6afa85e9ff173083405b6d80ae1bc0.js": "/elyesmahjoubi.github.io/precache-manifest.8d6afa85e9ff173083405b6d80ae1bc0.js",
+    "precache-manifest.c1c95ef75969a26e5f992eab8c9998a8.js": "/elyesmahjoubi.github.io/precache-manifest.c1c95ef75969a26e5f992eab8c9998a8.js",
     "service-worker.js": "/elyesmahjoubi.github.io/service-worker.js",
     "static/css/main.4a1a5090.chunk.css.map": "/elyesmahjoubi.github.io/static/css/main.4a1a5090.chunk.css.map",
     "static/media/index.css": "/elyesmahjoubi.github.io/static/media/Montserrat-Regular.ee653992.ttf",
@@ -17,7 +17,7 @@
     "static/media/HEC_Lausanne Logo.png": "/elyesmahjoubi.github.io/static/media/HEC_Lausanne Logo.4f16948a.png",
     "static/media/MC_demo.svg": "/elyesmahjoubi.github.io/static/media/MC_demo.1bfa2222.svg",
     "static/media/Math_Fin.png": "/elyesmahjoubi.github.io/static/media/Math_Fin.04b51c29.png",
-    "static/media/Resume.pdf": "/elyesmahjoubi.github.io/static/media/Resume.0802f012.pdf",
+    "static/media/Resume.pdf": "/elyesmahjoubi.github.io/static/media/Resume.bd9bfee8.pdf",
     "static/media/SSVI_vs.png": "/elyesmahjoubi.github.io/static/media/SSVI_vs.1152198c.png",
     "static/media/VaR.svg": "/elyesmahjoubi.github.io/static/media/VaR.c2c19e7c.svg",
     "static/media/Volatility_Surface.svg": "/elyesmahjoubi.github.io/static/media/Volatility_Surface.024d2149.svg",
@@ -66,6 +66,6 @@
     "static/js/runtime-main.09bc0716.js",
     "static/js/2.cf520050.chunk.js",
     "static/css/main.4a1a5090.chunk.css",
-    "static/js/main.5e757755.chunk.js"
+    "static/js/main.4a8a0a25.chunk.js"
   ]
 }
