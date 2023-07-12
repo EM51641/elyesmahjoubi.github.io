@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "67c8c354c05c5e27b2c6889736727815",
+    "revision": "465ca912592abf63731ad5bf2d4aeef6",
     "url": "/elyesmahjoubi.github.io/index.html"
   },
   {
-    "revision": "b9c3082acc960b60646e",
-    "url": "/elyesmahjoubi.github.io/static/css/main.4a1a5090.chunk.css"
+    "revision": "890ea44d014bdd46c7db",
+    "url": "/elyesmahjoubi.github.io/static/css/main.164328bb.chunk.css"
   },
   {
-    "revision": "827abc0b7383e8d619d2",
-    "url": "/elyesmahjoubi.github.io/static/js/2.cf520050.chunk.js"
+    "revision": "18cdd40094ff828a3f5d",
+    "url": "/elyesmahjoubi.github.io/static/js/2.56112441.chunk.js"
   },
   {
-    "revision": "b9c3082acc960b60646e",
-    "url": "/elyesmahjoubi.github.io/static/js/main.4a8a0a25.chunk.js"
+    "revision": "890ea44d014bdd46c7db",
+    "url": "/elyesmahjoubi.github.io/static/js/main.f061c995.chunk.js"
   },
   {
     "revision": "b0446ecc1c508847ab5a",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elyesmahjoubi.github.io/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "bd9bfee8ffb32824118dd298a5ba6be6",
-    "url": "/elyesmahjoubi.github.io/static/media/Resume.bd9bfee8.pdf"
+    "revision": "109f919669bb965911a208cac07a4a90",
+    "url": "/elyesmahjoubi.github.io/static/media/Resume.109f9196.pdf"
   },
   {
     "revision": "1152198c5f9e87f2cf19064f9257d757",
@@ -92,6 +92,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elyesmahjoubi.github.io/static/media/address_image.16559172.svg"
   },
   {
+    "revision": "7e28306f8178c53a0b74fcd8041362d3",
+    "url": "/elyesmahjoubi.github.io/static/media/af.7e28306f.svg"
+  },
+  {
     "revision": "18c6c43b694206c1400685a883d74c3d",
     "url": "/elyesmahjoubi.github.io/static/media/amazon_logo.18c6c43b.svg"
   },
@@ -100,12 +104,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elyesmahjoubi.github.io/static/media/animated_logo.dcd6dee2.svg"
   },
   {
+    "revision": "73c177e4545c26b844551aa8038970b0",
+    "url": "/elyesmahjoubi.github.io/static/media/bd.73c177e4.svg"
+  },
+  {
     "revision": "ddd267c61f0566a3f76523bc4999387b",
     "url": "/elyesmahjoubi.github.io/static/media/biat_logo.ddd267c6.png"
   },
   {
     "revision": "058eca4cbdc03a1dad9a6bb943ac7831",
     "url": "/elyesmahjoubi.github.io/static/media/blogs_image.058eca4c.svg"
+  },
+  {
+    "revision": "5fe6a5d347fb4cc910f6ad9cd0b0861d",
+    "url": "/elyesmahjoubi.github.io/static/media/cd.5fe6a5d3.svg"
+  },
+  {
+    "revision": "35e53976a55dd64b4122c1342cce3eab",
+    "url": "/elyesmahjoubi.github.io/static/media/cf.35e53976.svg"
   },
   {
     "revision": "cacbc42b661f39344af81c631d8d36a9",
@@ -124,6 +140,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elyesmahjoubi.github.io/static/media/data_science.ebf35d7f.svg"
   },
   {
+    "revision": "cfed9f984610e26dac5ff281c0329bcc",
+    "url": "/elyesmahjoubi.github.io/static/media/de.cfed9f98.svg"
+  },
+  {
     "revision": "75a7107b7739a46950f66de29779eb52",
     "url": "/elyesmahjoubi.github.io/static/media/deeplearning_ai_logo.75a7107b.png"
   },
@@ -138,6 +158,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3bab7a9dc4324f1b2364d25a47fcfcf0",
     "url": "/elyesmahjoubi.github.io/static/media/education.3bab7a9d.svg"
+  },
+  {
+    "revision": "23e92a2ab4f4cb016274489f404c4954",
+    "url": "/elyesmahjoubi.github.io/static/media/er.23e92a2a.svg"
+  },
+  {
+    "revision": "6a4cea9199145e0de4210d89b13079ee",
+    "url": "/elyesmahjoubi.github.io/static/media/et.6a4cea91.svg"
   },
   {
     "revision": "a00ede3f70759480e81f14f203edaa51",
@@ -240,6 +268,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elyesmahjoubi.github.io/static/media/intel_logo.29152cf7.jpg"
   },
   {
+    "revision": "d0d5dfe1f002e8316924e3cf930f0c1e",
+    "url": "/elyesmahjoubi.github.io/static/media/ir.d0d5dfe1.svg"
+  },
+  {
+    "revision": "117e42485a30d4149b90c59eb2403b8b",
+    "url": "/elyesmahjoubi.github.io/static/media/js.117e4248.bin"
+  },
+  {
     "revision": "5b4a6449747ec61a6d9aa874f2a9ceba",
     "url": "/elyesmahjoubi.github.io/static/media/jsFramework.5b4a6449.svg"
   },
@@ -250,6 +286,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "83ac24fb968a474c6a63f7a4e9a8f62c",
     "url": "/elyesmahjoubi.github.io/static/media/manOnTable.83ac24fb.svg"
+  },
+  {
+    "revision": "0ffe1433ce848ce1f8bdc2cde2303b64",
+    "url": "/elyesmahjoubi.github.io/static/media/mm.0ffe1433.svg"
   },
   {
     "revision": "fe671564b5adef9400a89f19993ed59c",
@@ -266,6 +306,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "95a12a2b8c3149cce2175679755c4b4d",
     "url": "/elyesmahjoubi.github.io/static/media/nptel_logo.95a12a2b.png"
+  },
+  {
+    "revision": "e6ab8a7e46f358fb44644c2df8624a84",
+    "url": "/elyesmahjoubi.github.io/static/media/pk.e6ab8a7e.svg"
+  },
+  {
+    "revision": "433e6592594c362510816cfb73b37074",
+    "url": "/elyesmahjoubi.github.io/static/media/pl.433e6592.svg"
   },
   {
     "revision": "414dfbd98516b39255a3e22ed90b3f7d",
@@ -288,8 +336,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elyesmahjoubi.github.io/static/media/ret_distribution.b45d92e1.svg"
   },
   {
+    "revision": "14814a48e7284c087eaa9c44fb581302",
+    "url": "/elyesmahjoubi.github.io/static/media/ru.14814a48.svg"
+  },
+  {
+    "revision": "a53d817395b239599901627a36a6a335",
+    "url": "/elyesmahjoubi.github.io/static/media/sd.a53d8173.svg"
+  },
+  {
+    "revision": "27cf3263b2ddba8454b935f611e8bfd2",
+    "url": "/elyesmahjoubi.github.io/static/media/so.27cf3263.svg"
+  },
+  {
+    "revision": "486e93e72629909d4362b28f1a1fd3fb",
+    "url": "/elyesmahjoubi.github.io/static/media/ss.486e93e7.svg"
+  },
+  {
     "revision": "2c497738be3831492aeb6bdc43f19154",
     "url": "/elyesmahjoubi.github.io/static/media/stanford_logo.2c497738.png"
+  },
+  {
+    "revision": "d8e896be0dd656174ccb831f6b42a997",
+    "url": "/elyesmahjoubi.github.io/static/media/sy.d8e896be.svg"
   },
   {
     "revision": "6ac91b161c2c9934a44f72d75d18142d",
@@ -298,6 +366,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3fa5424232370e3d049c9555d9c440a4",
     "url": "/elyesmahjoubi.github.io/static/media/talksCardBackAlt.3fa54242.svg"
+  },
+  {
+    "revision": "da3d6dc0d61b1d04e77681442f6c471e",
+    "url": "/elyesmahjoubi.github.io/static/media/tr.da3d6dc0.svg"
+  },
+  {
+    "revision": "9ef03bd61fd0371e2864ee5cc8aad3b9",
+    "url": "/elyesmahjoubi.github.io/static/media/ua.9ef03bd6.svg"
+  },
+  {
+    "revision": "26536ca595edb9cd8576899156144ac2",
+    "url": "/elyesmahjoubi.github.io/static/media/ug.26536ca5.svg"
   },
   {
     "revision": "d63630893eb8cb64af65f395d393c481",
