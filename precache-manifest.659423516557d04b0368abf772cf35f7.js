@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "465ca912592abf63731ad5bf2d4aeef6",
+    "revision": "9a29072d5d5157bb5791986651e550a8",
     "url": "/elyesmahjoubi.github.io/index.html"
   },
   {
-    "revision": "890ea44d014bdd46c7db",
-    "url": "/elyesmahjoubi.github.io/static/css/main.164328bb.chunk.css"
+    "revision": "9ebad4c29184f26b11b9",
+    "url": "/elyesmahjoubi.github.io/static/css/main.8d762e8d.chunk.css"
   },
   {
-    "revision": "18cdd40094ff828a3f5d",
-    "url": "/elyesmahjoubi.github.io/static/js/2.56112441.chunk.js"
+    "revision": "2ce677c1996c00cf8a33",
+    "url": "/elyesmahjoubi.github.io/static/js/2.5e3d34ed.chunk.js"
   },
   {
-    "revision": "890ea44d014bdd46c7db",
-    "url": "/elyesmahjoubi.github.io/static/js/main.f061c995.chunk.js"
+    "revision": "9ebad4c29184f26b11b9",
+    "url": "/elyesmahjoubi.github.io/static/js/main.aa609e69.chunk.js"
   },
   {
     "revision": "b0446ecc1c508847ab5a",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3cd5d792593e07ccecace179992b6a4f",
     "url": "/elyesmahjoubi.github.io/static/media/CV_photo.3cd5d792.jpg"
+  },
+  {
+    "revision": "54d94a295c213598d7b06baeaff43676",
+    "url": "/elyesmahjoubi.github.io/static/media/Cubic_IVMSE 2.54d94a29.svg"
   },
   {
     "revision": "54d94a295c213598d7b06baeaff43676",
@@ -61,6 +65,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "1bfa222263a21b6707352695a68ffab9",
+    "url": "/elyesmahjoubi.github.io/static/media/MC_demo 2.1bfa2222.svg"
+  },
+  {
+    "revision": "1bfa222263a21b6707352695a68ffab9",
     "url": "/elyesmahjoubi.github.io/static/media/MC_demo.1bfa2222.svg"
   },
   {
@@ -72,8 +80,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elyesmahjoubi.github.io/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "109f919669bb965911a208cac07a4a90",
-    "url": "/elyesmahjoubi.github.io/static/media/Resume.109f9196.pdf"
+    "revision": "bdc7922c6b70b9f323001be30146145a",
+    "url": "/elyesmahjoubi.github.io/static/media/Resume.bdc7922c.pdf"
   },
   {
     "revision": "1152198c5f9e87f2cf19064f9257d757",
@@ -81,7 +89,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "c2c19e7c819c5669844aeea64b01cc2f",
+    "url": "/elyesmahjoubi.github.io/static/media/VaR 2.c2c19e7c.svg"
+  },
+  {
+    "revision": "c2c19e7c819c5669844aeea64b01cc2f",
     "url": "/elyesmahjoubi.github.io/static/media/VaR.c2c19e7c.svg"
+  },
+  {
+    "revision": "024d2149a20d5b339d957a5bc9fbfcf8",
+    "url": "/elyesmahjoubi.github.io/static/media/Volatility_Surface 2.024d2149.svg"
   },
   {
     "revision": "024d2149a20d5b339d957a5bc9fbfcf8",
@@ -93,7 +109,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "7e28306f8178c53a0b74fcd8041362d3",
+    "url": "/elyesmahjoubi.github.io/static/media/af 2.7e28306f.svg"
+  },
+  {
+    "revision": "7e28306f8178c53a0b74fcd8041362d3",
     "url": "/elyesmahjoubi.github.io/static/media/af.7e28306f.svg"
+  },
+  {
+    "revision": "18c6c43b694206c1400685a883d74c3d",
+    "url": "/elyesmahjoubi.github.io/static/media/amazon_logo 2.18c6c43b.svg"
   },
   {
     "revision": "18c6c43b694206c1400685a883d74c3d",
@@ -102,6 +126,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
     "url": "/elyesmahjoubi.github.io/static/media/animated_logo.dcd6dee2.svg"
+  },
+  {
+    "revision": "73c177e4545c26b844551aa8038970b0",
+    "url": "/elyesmahjoubi.github.io/static/media/bd 2.73c177e4.svg"
   },
   {
     "revision": "73c177e4545c26b844551aa8038970b0",
@@ -117,7 +145,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "5fe6a5d347fb4cc910f6ad9cd0b0861d",
+    "url": "/elyesmahjoubi.github.io/static/media/cd 2.5fe6a5d3.svg"
+  },
+  {
+    "revision": "5fe6a5d347fb4cc910f6ad9cd0b0861d",
     "url": "/elyesmahjoubi.github.io/static/media/cd.5fe6a5d3.svg"
+  },
+  {
+    "revision": "35e53976a55dd64b4122c1342cce3eab",
+    "url": "/elyesmahjoubi.github.io/static/media/cf 2.35e53976.svg"
   },
   {
     "revision": "35e53976a55dd64b4122c1342cce3eab",
@@ -141,6 +177,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "cfed9f984610e26dac5ff281c0329bcc",
+    "url": "/elyesmahjoubi.github.io/static/media/de 2.cfed9f98.svg"
+  },
+  {
+    "revision": "cfed9f984610e26dac5ff281c0329bcc",
     "url": "/elyesmahjoubi.github.io/static/media/de.cfed9f98.svg"
   },
   {
@@ -161,7 +201,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "23e92a2ab4f4cb016274489f404c4954",
+    "url": "/elyesmahjoubi.github.io/static/media/er 2.23e92a2a.svg"
+  },
+  {
+    "revision": "23e92a2ab4f4cb016274489f404c4954",
     "url": "/elyesmahjoubi.github.io/static/media/er.23e92a2a.svg"
+  },
+  {
+    "revision": "6a4cea9199145e0de4210d89b13079ee",
+    "url": "/elyesmahjoubi.github.io/static/media/et 2.6a4cea91.svg"
   },
   {
     "revision": "6a4cea9199145e0de4210d89b13079ee",
@@ -269,7 +317,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "d0d5dfe1f002e8316924e3cf930f0c1e",
+    "url": "/elyesmahjoubi.github.io/static/media/ir 2.d0d5dfe1.svg"
+  },
+  {
+    "revision": "d0d5dfe1f002e8316924e3cf930f0c1e",
     "url": "/elyesmahjoubi.github.io/static/media/ir.d0d5dfe1.svg"
+  },
+  {
+    "revision": "117e42485a30d4149b90c59eb2403b8b",
+    "url": "/elyesmahjoubi.github.io/static/media/js 2.117e4248.bin"
   },
   {
     "revision": "117e42485a30d4149b90c59eb2403b8b",
@@ -286,6 +342,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "83ac24fb968a474c6a63f7a4e9a8f62c",
     "url": "/elyesmahjoubi.github.io/static/media/manOnTable.83ac24fb.svg"
+  },
+  {
+    "revision": "0ffe1433ce848ce1f8bdc2cde2303b64",
+    "url": "/elyesmahjoubi.github.io/static/media/mm 2.0ffe1433.svg"
   },
   {
     "revision": "0ffe1433ce848ce1f8bdc2cde2303b64",
@@ -309,7 +369,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "e6ab8a7e46f358fb44644c2df8624a84",
+    "url": "/elyesmahjoubi.github.io/static/media/pk 2.e6ab8a7e.svg"
+  },
+  {
+    "revision": "e6ab8a7e46f358fb44644c2df8624a84",
     "url": "/elyesmahjoubi.github.io/static/media/pk.e6ab8a7e.svg"
+  },
+  {
+    "revision": "433e6592594c362510816cfb73b37074",
+    "url": "/elyesmahjoubi.github.io/static/media/pl 2.433e6592.svg"
   },
   {
     "revision": "433e6592594c362510816cfb73b37074",
@@ -333,7 +401,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "b45d92e13dab5b8795857a97a07f3c4b",
+    "url": "/elyesmahjoubi.github.io/static/media/ret_distribution 2.b45d92e1.svg"
+  },
+  {
+    "revision": "b45d92e13dab5b8795857a97a07f3c4b",
     "url": "/elyesmahjoubi.github.io/static/media/ret_distribution.b45d92e1.svg"
+  },
+  {
+    "revision": "14814a48e7284c087eaa9c44fb581302",
+    "url": "/elyesmahjoubi.github.io/static/media/ru 2.14814a48.svg"
   },
   {
     "revision": "14814a48e7284c087eaa9c44fb581302",
@@ -341,11 +417,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "a53d817395b239599901627a36a6a335",
+    "url": "/elyesmahjoubi.github.io/static/media/sd 2.a53d8173.svg"
+  },
+  {
+    "revision": "a53d817395b239599901627a36a6a335",
     "url": "/elyesmahjoubi.github.io/static/media/sd.a53d8173.svg"
   },
   {
     "revision": "27cf3263b2ddba8454b935f611e8bfd2",
+    "url": "/elyesmahjoubi.github.io/static/media/so 2.27cf3263.svg"
+  },
+  {
+    "revision": "27cf3263b2ddba8454b935f611e8bfd2",
     "url": "/elyesmahjoubi.github.io/static/media/so.27cf3263.svg"
+  },
+  {
+    "revision": "486e93e72629909d4362b28f1a1fd3fb",
+    "url": "/elyesmahjoubi.github.io/static/media/ss 2.486e93e7.svg"
   },
   {
     "revision": "486e93e72629909d4362b28f1a1fd3fb",
@@ -354,6 +442,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2c497738be3831492aeb6bdc43f19154",
     "url": "/elyesmahjoubi.github.io/static/media/stanford_logo.2c497738.png"
+  },
+  {
+    "revision": "d8e896be0dd656174ccb831f6b42a997",
+    "url": "/elyesmahjoubi.github.io/static/media/sy 2.d8e896be.svg"
   },
   {
     "revision": "d8e896be0dd656174ccb831f6b42a997",
@@ -369,11 +461,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "da3d6dc0d61b1d04e77681442f6c471e",
+    "url": "/elyesmahjoubi.github.io/static/media/tr 2.da3d6dc0.svg"
+  },
+  {
+    "revision": "da3d6dc0d61b1d04e77681442f6c471e",
     "url": "/elyesmahjoubi.github.io/static/media/tr.da3d6dc0.svg"
   },
   {
     "revision": "9ef03bd61fd0371e2864ee5cc8aad3b9",
+    "url": "/elyesmahjoubi.github.io/static/media/ua 2.9ef03bd6.svg"
+  },
+  {
+    "revision": "9ef03bd61fd0371e2864ee5cc8aad3b9",
     "url": "/elyesmahjoubi.github.io/static/media/ua.9ef03bd6.svg"
+  },
+  {
+    "revision": "26536ca595edb9cd8576899156144ac2",
+    "url": "/elyesmahjoubi.github.io/static/media/ug 2.26536ca5.svg"
   },
   {
     "revision": "26536ca595edb9cd8576899156144ac2",
