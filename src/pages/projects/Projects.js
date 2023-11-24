@@ -10,7 +10,7 @@ import { greeting, projectsHeader, publicationsHeader } from "../../portfolio.js
 import ProjectsData from "../../shared/opensource/projects.json";
 import PublicationData from "../../shared/opensource/publications.json";
 import "./Projects.css";
-import ProjectsImg from "./ProjectsImg";
+/*import ProjectsImg from "./ProjectsImg";*/
 
 class Projects extends Component {
   render() {
@@ -23,7 +23,7 @@ class Projects extends Component {
             <div className="projects-heading-div">
               <div className="projects-heading-img-div">
                 <img
-											src={require(`../../assests/images/VaR.png`)}
+											src={require(`../../assests/images/VaR.svg`)}
 											alt=""
 										/>
                 {/* <ProjectsImg theme={theme} /> */}

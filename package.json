@@ -21,7 +21,7 @@
     "gh-pages": "^2.1.1",
     "graphql": "^14.5.8",
     "node-fetch": "^2.6.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.1",
     "prettier-package-json": "^2.1.3",
     "radium": "^0.26.0",
     "react": "^16.10.2",
@@ -67,5 +67,16 @@
   "lint-staged": {
     "*.json": "prettier-package-json --write",
     "*.{js,css,md}": "prettier --write"
+  },
+  "description": "Welcome on the repository of my personal Github website. The repository was designed by Ashutosh Hathidara and is available on this [repository](https://github.com/ashutosh1919/masterPortfolio). On my website, you can have a look on my latest projects and work.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EM51641/elyesmahjoubi.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EM51641/elyesmahjoubi.github.io/issues"
   }
 }

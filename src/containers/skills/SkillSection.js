@@ -30,7 +30,7 @@ class SkillSection extends Component {
                 <div className="skills-image-div">
                   {<img
                     alt="Ashutosh is Analysing Data"
-                    src={require(`../../assests/images/Copula_ds.png`)}
+                    src={require(`../../assests/images/ret_distribution.svg`)}
                   ></img>}
                   {/*<GetSkillSvg fileName={skill.fileName} theme={theme} />*/}
                 </div>

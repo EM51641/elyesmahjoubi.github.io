@@ -1,0 +1,41 @@
+.hide{
+	position: relative;
+	visibility: hidden;
+	background-color: black;
+	text-align: center;
+	z-index: 0;
+}
+
+.flag-img:hover ~ .hide{
+	visibility: visible;
+}
+
+.chart-container{
+	position: relative;
+	width: 100% !important;
+	height: 1299px;
+  }
+
+@media (max-width: 400px) {
+	.chart-container{
+		position: relative;
+		width: 100% !important;
+		height: 200px;
+	  }
+}
+
+@media (max-width: 500px) {
+	.chart-container{
+		position: relative;
+		width: 100% !important;
+		height: 300px;
+	  }
+}
+
+@media (max-width: 700px) {
+	.chart-container{
+		position: relative;
+		width: 100% !important;
+		height: 500px;
+	  }
+}

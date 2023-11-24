@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Elyes Mahjoubi",
   description:
-    "I have a great passion for applied mathematics. I currently graduated from HEC Lausanne, where I inherited a strong technical and I am, now, aiming to specialize in mathematical modeling and quantitative research.",
+    "I have a great passion for applied mathematics and programming. I currently graduated from HEC Lausanne, where I inherited a strong technical and I am, now, aiming to specialize in mathematical modeling, quantitative research and software engineering.",
   og: {
     title: "Elyes Mahjoubi's Portfolio",
     type: "website",
@@ -21,13 +21,13 @@ const seo = {
 const greeting = {
   title: "Elyes Mahjoubi",
   logo_name: "Elyes Mahjoubi",
-  //nickname: "EM51641",
+  nickname: "EM51641",
   subTitle:
-    "Passionate about Maths and Finance, I aim to specialize in mathematical modeling and quantitative research.",
-  resumeLink:
-    "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
-  //portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/EM51641",
+  "I have a great passion for applied mathematics and programming. I currently graduated from HEC Lausanne, where I inherited a strong technical and I am, now, aiming to specialize in mathematical modeling, quantitative research and software engineering.",
+  
+  resumeLink: "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
+
+  portfolio_repository: "https://github.com/EM51641",
 };
 
 const socialMediaLinks = [
@@ -57,14 +57,29 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Mathematical Modeling & Finance",
+      title: "Mathematical Modeling, Finance & Programming",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing stochastic volatility models to evaluate option prices fairly",
-        "⚡ Experience in creating risk management tools to find portfolios' exposures",
-        "⚡ Complex quantitative modeling for dynamic forecasting and time series analysis",
+        "⚡ Developing stochastic volatility models to evaluate option prices fairly.",
+        "⚡ Experience in creating risk management tools to find portfolios' exposures.",
+        "⚡ Complex quantitative modeling for dynamic forecasting and time series analysis.",
+        "⚡ Mastering a slate of apis' development frameworks to improve data flow."
       ],
       softwareSkills: [
+        {
+          skillName: "Python",
+          fontAwesomeClassname: "logos:python",
+          style: {
+            backgroundColor: "transparent",
+          }
+        },
+        {
+          skillName: "Java",
+          fontAwesomeClassname: "logos:java",
+          style: {
+            backgroundColor: "transparent",
+          }
+        },
         {
           skillName: "C++",
           fontAwesomeClassname: "logos:c-plusplus",
@@ -82,24 +97,65 @@ const skills = {
         },
         {
           skillName: "R",
-          fontAwesomeClassname: "cib:r",
+          fontAwesomeClassname: "logos:r-lang",
           style: {
             backgroundColor: "transparent",
             color: "#3776AB",
-          },
+          }
         },
         {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
+            skillName: "Javascript",
+            fontAwesomeClassname: "logos:javascript",
+            style: {
+              backgroundColor: "transparent",
+              color: "#3776AB",
+           }
           },
+          {
+            skillName: "Typescript",
+            fontAwesomeClassname: "logos:typescript",
+            style: {
+              backgroundColor: "transparent",
+            }
+          },
+          {
+            skillName: "Docker",
+            fontAwesomeClassname: "logos:docker-icon",
+            style: {
+              backgroundColor: "transparent",
+            }
+          },
+          {
+            skillName: "Node.js",
+            fontAwesomeClassname: "logos:nodejs",
+            style: {
+              backgroundColor: "transparent",
+              color: "#3776AB",
+            }},
+          {
+            skillName: "Django Framework",
+            fontAwesomeClassname: "vscode-icons:file-type-django",
+            style: {
+              backgroundColor: "transparent",
+              color: "#3776AB",
+            }},
+          {
+            skillName: "Flask",
+            fontAwesomeClassname: "logos:flask",
+            style: {
+              backgroundColor: "transparent",
+            }},
+            {
+            skillName: "Selenium",
+            fontAwesomeClassname: "logos:selenium",
+            style: {
+              backgroundColor: "transparent",
+              color: "#3776AB",
+            }}
+          ],
         },
       ],
-    },
-  ],
-};
+    }
 
 const competitiveSites = {
   competitiveSites: [],
@@ -107,20 +163,6 @@ const competitiveSites = {
 
 const degrees = {
   degrees: [
-    {
-      title: "HEC Lausanne, University of Lausanne",
-      subtitle: "B.S. in Economics",
-      logo_path: "HEC_Lausanne Logo.png",
-      alt_name: "HEC Lausanne",
-      duration: "2016 - 2019",
-      descriptions: [
-        "⚡ Emphasised on macroeconomics, microeconomics and finance.",
-        "⚡ Consolidated my skills in programming, mathematics and statistics.",
-        "⚡ Choose a numerous of research-driven lessons.",
-      ],
-      website_link: "https://www.unil.ch",
-    },
-
     {
       title: "HEC Lausanne, University of Lausanne",
       subtitle: "M.S. in Finance",
@@ -134,6 +176,19 @@ const degrees = {
       ],
       website_link: "https://www.unil.ch",
     },
+    {
+      title: "HEC Lausanne, University of Lausanne",
+      subtitle: "B.S. in Economics",
+      logo_path: "HEC_Lausanne Logo.png",
+      alt_name: "HEC Lausanne",
+      duration: "2016 - 2019",
+      descriptions: [
+        "⚡ Emphasised on macroeconomics, microeconomics and finance.",
+        "⚡ Consolidated my skills in programming, mathematics and statistics.",
+        "⚡ Choose a numerous of research-driven lessons.",
+      ],
+      website_link: "https://www.unil.ch",
+    }
   ],
 };
 
@@ -185,17 +240,26 @@ const experience = {
       title: "Work",
       experiences: [
         {
+          title: "Software Developer",
+          company: "Amazon",
+          company_url: "https://www.amazon.com",
+          logo_path: "amazon_logo.svg",
+          duration: "From May 2022 ",
+          location: "Iasi, Romania",
+          description: [
+            "⚡ Worked on creating internal web APIs for associates and business analysts using Flask and NextJS frameworks, Amazon Redshift and ETL pipelines."          ],
+          color: "#0879bf",
+        },
+        {
           title: "Quantitative Analyst Intern",
           company: "Biat Asset Management",
           company_url: "https://www.biat.com.tn",
           logo_path: "biat_logo.png",
-          duration: "August - September 2019 ",
+          duration: "August - September 2019",
           location: "Tunis, Tunisia",
           description: [
-            "⚡ Recommended both SICAVs and FCPs mutual funds to customers.",
-            "⚡ Updated very known Financial metrics for some mutual funds.",
-            "⚡ Studied Tunisia’s investment laws for mutual funds.",
-            "⚡ Proposed a more efficient metric to analyze the conditional value-at-risk using a famous research paper.",
+            "⚡ Proposed a more realistic metric to analyze the Conditional Value at Risk using a famous research paper (McNeil and Frey, 2000).",
+            "⚡ Set up Python programs to automate the generation of significant financials indexes such as Sharpe ratios and volatility metrics."
           ],
           color: "#0879bf",
         },

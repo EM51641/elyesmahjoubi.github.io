@@ -5,7 +5,7 @@ import TopButton from "../../components/topButton/TopButton";
 import Educations from "../../containers/education/Educations";
 import Certifications from "../../containers/certifications/Certifications";
 import CompetitiveSites from "../../components/competitiveSites/CompetitiveSites";
-import EducationImg from "./EducationImg";
+/*import EducationImg from "./EducationImg";*/
 import { competitiveSites } from "../../portfolio";
 import "./EducationComponent.css";
 import { Fade } from "react-reveal";
@@ -21,7 +21,7 @@ class Education extends Component {
             <div className="heading-div">
               <div className="heading-img-div">
                 {<img
-									src={require("../../assests/images/MC_demo.png")}
+									src={require("../../assests/images/MC_demo.svg")}
 									alt=""
 								/>}
                 { /* <EducationImg theme={theme} /> */}
