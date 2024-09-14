@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "76babbad82f8666e5b59001ce7dc7c9d",
+    "revision": "dab52b6aea6814cf4eec095a55d110a9",
     "url": "/elyesmahjoubi.github.io/index.html"
   },
   {
-    "revision": "e09b148ba3f13e27e6b9",
-    "url": "/elyesmahjoubi.github.io/static/css/main.8d762e8d.chunk.css"
+    "revision": "94c453e03cf42852b238",
+    "url": "/elyesmahjoubi.github.io/static/css/main.036d61d4.chunk.css"
   },
   {
-    "revision": "2ce677c1996c00cf8a33",
-    "url": "/elyesmahjoubi.github.io/static/js/2.5e3d34ed.chunk.js"
+    "revision": "44387d79cd14bced2ac9",
+    "url": "/elyesmahjoubi.github.io/static/js/2.0c18f426.chunk.js"
   },
   {
-    "revision": "e09b148ba3f13e27e6b9",
-    "url": "/elyesmahjoubi.github.io/static/js/main.9f26be94.chunk.js"
+    "revision": "94c453e03cf42852b238",
+    "url": "/elyesmahjoubi.github.io/static/js/main.0a027097.chunk.js"
   },
   {
     "revision": "b0446ecc1c508847ab5a",
@@ -114,10 +114,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7e28306f8178c53a0b74fcd8041362d3",
     "url": "/elyesmahjoubi.github.io/static/media/af.7e28306f.svg"
-  },
-  {
-    "revision": "18c6c43b694206c1400685a883d74c3d",
-    "url": "/elyesmahjoubi.github.io/static/media/amazon_logo 2.18c6c43b.svg"
   },
   {
     "revision": "18c6c43b694206c1400685a883d74c3d",
@@ -288,6 +284,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elyesmahjoubi.github.io/static/media/fullstack.fce60807.svg"
   },
   {
+    "revision": "456f3d6f848401a305c14b943ce6e245",
+    "url": "/elyesmahjoubi.github.io/static/media/gartner_logo.456f3d6f.svg"
+  },
+  {
     "revision": "0ee7e8c9444cdfefc10f6d86e18b9b5b",
     "url": "/elyesmahjoubi.github.io/static/media/gcp_logo.0ee7e8c9.png"
   },
@@ -302,6 +302,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a6addc3fb6605480614b992ede8cd434",
     "url": "/elyesmahjoubi.github.io/static/media/googleAssistant.a6addc3f.svg"
+  },
+  {
+    "revision": "603205fe4a3d0382dde4a660dae6ade9",
+    "url": "/elyesmahjoubi.github.io/static/media/higher_school_of_econs_logo.603205fe.svg"
   },
   {
     "revision": "d3fccbe1db76b96f4f320d9c0f7da30c",

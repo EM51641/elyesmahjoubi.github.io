@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/elyesmahjoubi.github.io/static/css/main.8d762e8d.chunk.css",
-    "main.js": "/elyesmahjoubi.github.io/static/js/main.9f26be94.chunk.js",
-    "main.js.map": "/elyesmahjoubi.github.io/static/js/main.9f26be94.chunk.js.map",
+    "main.css": "/elyesmahjoubi.github.io/static/css/main.036d61d4.chunk.css",
+    "main.js": "/elyesmahjoubi.github.io/static/js/main.0a027097.chunk.js",
+    "main.js.map": "/elyesmahjoubi.github.io/static/js/main.0a027097.chunk.js.map",
     "runtime-main.js": "/elyesmahjoubi.github.io/static/js/runtime-main.09bc0716.js",
     "runtime-main.js.map": "/elyesmahjoubi.github.io/static/js/runtime-main.09bc0716.js.map",
-    "static/js/2.5e3d34ed.chunk.js": "/elyesmahjoubi.github.io/static/js/2.5e3d34ed.chunk.js",
-    "static/js/2.5e3d34ed.chunk.js.map": "/elyesmahjoubi.github.io/static/js/2.5e3d34ed.chunk.js.map",
+    "static/js/2.0c18f426.chunk.js": "/elyesmahjoubi.github.io/static/js/2.0c18f426.chunk.js",
+    "static/js/2.0c18f426.chunk.js.map": "/elyesmahjoubi.github.io/static/js/2.0c18f426.chunk.js.map",
     "index.html": "/elyesmahjoubi.github.io/index.html",
-    "precache-manifest.82b990faa3f963f0f22b1f6930ddf79c.js": "/elyesmahjoubi.github.io/precache-manifest.82b990faa3f963f0f22b1f6930ddf79c.js",
+    "precache-manifest.2990bada72ab85bdab26e13aeb886c58.js": "/elyesmahjoubi.github.io/precache-manifest.2990bada72ab85bdab26e13aeb886c58.js",
     "service-worker.js": "/elyesmahjoubi.github.io/service-worker.js",
-    "static/css/main.8d762e8d.chunk.css.map": "/elyesmahjoubi.github.io/static/css/main.8d762e8d.chunk.css.map",
+    "static/css/main.036d61d4.chunk.css.map": "/elyesmahjoubi.github.io/static/css/main.036d61d4.chunk.css.map",
     "static/media/index.css": "/elyesmahjoubi.github.io/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/CV_photo.jpg": "/elyesmahjoubi.github.io/static/media/CV_photo.3cd5d792.jpg",
     "static/media/Cubic_IVMSE 2.svg": "/elyesmahjoubi.github.io/static/media/Cubic_IVMSE 2.54d94a29.svg",
@@ -28,7 +28,6 @@
     "static/media/address_image.svg": "/elyesmahjoubi.github.io/static/media/address_image.16559172.svg",
     "static/media/af 2.svg": "/elyesmahjoubi.github.io/static/media/af 2.7e28306f.svg",
     "static/media/af.svg": "/elyesmahjoubi.github.io/static/media/af.7e28306f.svg",
-    "static/media/amazon_logo 2.svg": "/elyesmahjoubi.github.io/static/media/amazon_logo 2.18c6c43b.svg",
     "static/media/amazon_logo.svg": "/elyesmahjoubi.github.io/static/media/amazon_logo.18c6c43b.svg",
     "static/media/animated_logo.svg": "/elyesmahjoubi.github.io/static/media/animated_logo.dcd6dee2.svg",
     "static/media/bd 2.svg": "/elyesmahjoubi.github.io/static/media/bd 2.73c177e4.svg",
@@ -57,10 +56,12 @@
     "static/media/all.css": "/elyesmahjoubi.github.io/static/media/fa-solid-900.8e4a6dcc.eot",
     "static/media/feelingProud.svg": "/elyesmahjoubi.github.io/static/media/feelingProud.2936ce95.svg",
     "static/media/fullstack.svg": "/elyesmahjoubi.github.io/static/media/fullstack.fce60807.svg",
+    "static/media/gartner_logo.svg": "/elyesmahjoubi.github.io/static/media/gartner_logo.456f3d6f.svg",
     "static/media/gcp_logo.png": "/elyesmahjoubi.github.io/static/media/gcp_logo.0ee7e8c9.png",
     "static/media/github_logo.png": "/elyesmahjoubi.github.io/static/media/github_logo.6eeb2e81.png",
     "static/media/googleAssistant.jpg": "/elyesmahjoubi.github.io/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "/elyesmahjoubi.github.io/static/media/googleAssistant.a6addc3f.svg",
+    "static/media/higher_school_of_econs_logo.svg": "/elyesmahjoubi.github.io/static/media/higher_school_of_econs_logo.603205fe.svg",
     "static/media/ibm_logo.png": "/elyesmahjoubi.github.io/static/media/ibm_logo.d3fccbe1.png",
     "static/media/iiitk_logo.png": "/elyesmahjoubi.github.io/static/media/iiitk_logo.571a8584.png",
     "static/media/intel_logo.jpg": "/elyesmahjoubi.github.io/static/media/intel_logo.29152cf7.jpg",
@@ -110,8 +111,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.09bc0716.js",
-    "static/js/2.5e3d34ed.chunk.js",
-    "static/css/main.8d762e8d.chunk.css",
-    "static/js/main.9f26be94.chunk.js"
+    "static/js/2.0c18f426.chunk.js",
+    "static/css/main.036d61d4.chunk.css",
+    "static/js/main.0a027097.chunk.js"
   ]
 }
