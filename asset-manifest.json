@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/elyesmahjoubi.github.io/static/css/main.036d61d4.chunk.css",
-    "main.js": "/elyesmahjoubi.github.io/static/js/main.0a027097.chunk.js",
-    "main.js.map": "/elyesmahjoubi.github.io/static/js/main.0a027097.chunk.js.map",
+    "main.js": "/elyesmahjoubi.github.io/static/js/main.1c2e2d50.chunk.js",
+    "main.js.map": "/elyesmahjoubi.github.io/static/js/main.1c2e2d50.chunk.js.map",
     "runtime-main.js": "/elyesmahjoubi.github.io/static/js/runtime-main.09bc0716.js",
     "runtime-main.js.map": "/elyesmahjoubi.github.io/static/js/runtime-main.09bc0716.js.map",
     "static/js/2.0c18f426.chunk.js": "/elyesmahjoubi.github.io/static/js/2.0c18f426.chunk.js",
     "static/js/2.0c18f426.chunk.js.map": "/elyesmahjoubi.github.io/static/js/2.0c18f426.chunk.js.map",
     "index.html": "/elyesmahjoubi.github.io/index.html",
-    "precache-manifest.2990bada72ab85bdab26e13aeb886c58.js": "/elyesmahjoubi.github.io/precache-manifest.2990bada72ab85bdab26e13aeb886c58.js",
+    "precache-manifest.60f310cdb437879df1fb7ac76b7efec8.js": "/elyesmahjoubi.github.io/precache-manifest.60f310cdb437879df1fb7ac76b7efec8.js",
     "service-worker.js": "/elyesmahjoubi.github.io/service-worker.js",
     "static/css/main.036d61d4.chunk.css.map": "/elyesmahjoubi.github.io/static/css/main.036d61d4.chunk.css.map",
     "static/media/index.css": "/elyesmahjoubi.github.io/static/media/Montserrat-Regular.ee653992.ttf",
@@ -19,7 +19,7 @@
     "static/media/MC_demo 2.svg": "/elyesmahjoubi.github.io/static/media/MC_demo 2.1bfa2222.svg",
     "static/media/MC_demo.svg": "/elyesmahjoubi.github.io/static/media/MC_demo.1bfa2222.svg",
     "static/media/Math_Fin.png": "/elyesmahjoubi.github.io/static/media/Math_Fin.04b51c29.png",
-    "static/media/Resume.pdf": "/elyesmahjoubi.github.io/static/media/Resume.7e6321c3.pdf",
+    "static/media/Resume.pdf": "/elyesmahjoubi.github.io/static/media/Resume.70cef4c2.pdf",
     "static/media/SSVI_vs.png": "/elyesmahjoubi.github.io/static/media/SSVI_vs.1152198c.png",
     "static/media/VaR 2.svg": "/elyesmahjoubi.github.io/static/media/VaR 2.c2c19e7c.svg",
     "static/media/VaR.svg": "/elyesmahjoubi.github.io/static/media/VaR.c2c19e7c.svg",
@@ -113,6 +113,6 @@
     "static/js/runtime-main.09bc0716.js",
     "static/js/2.0c18f426.chunk.js",
     "static/css/main.036d61d4.chunk.css",
-    "static/js/main.0a027097.chunk.js"
+    "static/js/main.1c2e2d50.chunk.js"
   ]
 }
