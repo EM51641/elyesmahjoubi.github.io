@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4db4fa5e99e127887c782d26638a4b17",
+    "revision": "3f8baf178d3fbf0f43258599f9fc4f4c",
     "url": "/elyesmahjoubi.github.io/index.html"
   },
   {
-    "revision": "5e4072361d68e33f70f5",
+    "revision": "d9a779d8c2e417061cdf",
     "url": "/elyesmahjoubi.github.io/static/css/main.036d61d4.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elyesmahjoubi.github.io/static/js/2.0c18f426.chunk.js"
   },
   {
-    "revision": "5e4072361d68e33f70f5",
-    "url": "/elyesmahjoubi.github.io/static/js/main.7340c203.chunk.js"
+    "revision": "d9a779d8c2e417061cdf",
+    "url": "/elyesmahjoubi.github.io/static/js/main.d47571c9.chunk.js"
   },
   {
     "revision": "b0446ecc1c508847ab5a",
@@ -78,10 +78,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/elyesmahjoubi.github.io/static/media/Montserrat-Regular.ee653992.ttf"
-  },
-  {
-    "revision": "df752269ce561753ab2d9e67a7fc01c2",
-    "url": "/elyesmahjoubi.github.io/static/media/Resume.df752269.pdf"
   },
   {
     "revision": "1152198c5f9e87f2cf19064f9257d757",
@@ -402,6 +398,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "71408db71465afd742233e4a96f06526",
     "url": "/elyesmahjoubi.github.io/static/media/pwa.71408db7.png"
+  },
+  {
+    "revision": "7336d69b003b7a9bcc7fc569a6e11ea6",
+    "url": "/elyesmahjoubi.github.io/static/media/resume.7336d69b.pdf"
   },
   {
     "revision": "b45d92e13dab5b8795857a97a07f3c4b",

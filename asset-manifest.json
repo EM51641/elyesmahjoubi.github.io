@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/elyesmahjoubi.github.io/static/css/main.036d61d4.chunk.css",
-    "main.js": "/elyesmahjoubi.github.io/static/js/main.7340c203.chunk.js",
-    "main.js.map": "/elyesmahjoubi.github.io/static/js/main.7340c203.chunk.js.map",
+    "main.js": "/elyesmahjoubi.github.io/static/js/main.d47571c9.chunk.js",
+    "main.js.map": "/elyesmahjoubi.github.io/static/js/main.d47571c9.chunk.js.map",
     "runtime-main.js": "/elyesmahjoubi.github.io/static/js/runtime-main.09bc0716.js",
     "runtime-main.js.map": "/elyesmahjoubi.github.io/static/js/runtime-main.09bc0716.js.map",
     "static/js/2.0c18f426.chunk.js": "/elyesmahjoubi.github.io/static/js/2.0c18f426.chunk.js",
     "static/js/2.0c18f426.chunk.js.map": "/elyesmahjoubi.github.io/static/js/2.0c18f426.chunk.js.map",
     "index.html": "/elyesmahjoubi.github.io/index.html",
-    "precache-manifest.5fa30c86925bd6c8fd61f847731ab383.js": "/elyesmahjoubi.github.io/precache-manifest.5fa30c86925bd6c8fd61f847731ab383.js",
+    "precache-manifest.e75e71dedc5d96f3b0fd07c7a307cac7.js": "/elyesmahjoubi.github.io/precache-manifest.e75e71dedc5d96f3b0fd07c7a307cac7.js",
     "service-worker.js": "/elyesmahjoubi.github.io/service-worker.js",
     "static/css/main.036d61d4.chunk.css.map": "/elyesmahjoubi.github.io/static/css/main.036d61d4.chunk.css.map",
     "static/media/index.css": "/elyesmahjoubi.github.io/static/media/Montserrat-Regular.ee653992.ttf",
@@ -19,7 +19,6 @@
     "static/media/MC_demo 2.svg": "/elyesmahjoubi.github.io/static/media/MC_demo 2.1bfa2222.svg",
     "static/media/MC_demo.svg": "/elyesmahjoubi.github.io/static/media/MC_demo.1bfa2222.svg",
     "static/media/Math_Fin.png": "/elyesmahjoubi.github.io/static/media/Math_Fin.04b51c29.png",
-    "static/media/Resume.pdf": "/elyesmahjoubi.github.io/static/media/Resume.df752269.pdf",
     "static/media/SSVI_vs.png": "/elyesmahjoubi.github.io/static/media/SSVI_vs.1152198c.png",
     "static/media/VaR 2.svg": "/elyesmahjoubi.github.io/static/media/VaR 2.c2c19e7c.svg",
     "static/media/VaR.svg": "/elyesmahjoubi.github.io/static/media/VaR.c2c19e7c.svg",
@@ -86,6 +85,7 @@
     "static/media/programmer.svg": "/elyesmahjoubi.github.io/static/media/programmer.5faf790b.svg",
     "static/media/projects_image.svg": "/elyesmahjoubi.github.io/static/media/projects_image.b8ba9487.svg",
     "static/media/pwa.png": "/elyesmahjoubi.github.io/static/media/pwa.71408db7.png",
+    "static/media/resume.pdf": "/elyesmahjoubi.github.io/static/media/resume.7336d69b.pdf",
     "static/media/ret_distribution 2.svg": "/elyesmahjoubi.github.io/static/media/ret_distribution 2.b45d92e1.svg",
     "static/media/ret_distribution.svg": "/elyesmahjoubi.github.io/static/media/ret_distribution.b45d92e1.svg",
     "static/media/ru 2.svg": "/elyesmahjoubi.github.io/static/media/ru 2.14814a48.svg",
@@ -113,6 +113,6 @@
     "static/js/runtime-main.09bc0716.js",
     "static/js/2.0c18f426.chunk.js",
     "static/css/main.036d61d4.chunk.css",
-    "static/js/main.7340c203.chunk.js"
+    "static/js/main.d47571c9.chunk.js"
   ]
 }
