@@ -29,8 +29,24 @@ jobs:
           node-version: '16'
           cache: 'npm'
 
+      - name: Cache node_modules
+        uses: actions/cache@v4
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-node-modules-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-modules-
+
       - name: Install dependencies
         run: npm ci
+
+      - name: Cache build
+        uses: actions/cache@v4
+        with:
+          path: build
+          key: ${{ runner.os }}-build-${{ hashFiles('src/**/*', 'public/**/*') }}
+          restore-keys: |
+            ${{ runner.os }}-build-
 
       - name: Run tests
         run: npm run test
