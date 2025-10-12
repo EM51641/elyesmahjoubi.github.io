@@ -34,18 +34,13 @@ jobs:
         env:
           CI: true
 
-      - name: Run build
-        run: npm run build
-        env:
-          CI: true
-
       - name: Configure Git
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
       - name: Build and Deploy
-        run: npm run deploy
+        run: npm run build && npm run deploy
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
