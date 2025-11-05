@@ -244,12 +244,7 @@ const experience = {
           logo_path: "HEC_Lausanne Logo.png",
           duration: "February - September 2021 ",
           location: "Lausanne, Switzerland",
-          description: [
-            "⚡ Evaluated the efficiency and accuracy of various option pricing models.",
-            "⚡ Modeled volatility surfaces using Gaussian processes for different financial models.",
-            "⚡ Applied machine learning techniques to forecast future market expectations based on the current term structure.",
-            "⚡ Deepened my understanding of non-Markovian processes.",
-          ],
+          description: [],
           color: "#0879bf",
         },
       ],
@@ -264,15 +259,7 @@ const experience = {
           logo_path: "gartner_logo.svg",
           duration: "From January 2024",
           location: "Barcelona, Spain",
-          description: [
-            "⚡ Enhanced the repository API by applying the Query Specification pattern, resulting in improved query flexibility and maintainability.",
-            "⚡ Expanded the GraphQL schema by incorporating new types and resolvers to support additional critical functionalities, including the ability to display reviews filtered by various facets such as category, industry, and more.",
-            "⚡ Tracked latency in Datadog to identify cache reshuffle alternatives due to slow warm-up times, and generated supporting statistics to back the findings.",
-            "⚡ Developed new domains and services to retrieve data from various sources, including EAVs, traditional RDBMS tables, and persistent in-memory storage.",
-            "⚡ Managed deployments on EKS clusters with Kubernetes, utilizing Helm for package management and the CSI driver for storage provisioning.",
-            "⚡ Oversaw data ingestion processes and the creation/update of Kafka consumers.",
-            "⚡ Extanded my knowledge on RDS, ECR, IAM, Route53, CloudFront, Secret Manager and other AWS services.",
-          ],
+          description: [],
           color: "#0879bf",
         },
         {
@@ -282,25 +269,9 @@ const experience = {
           logo_path: "amazon_logo.svg",
           duration: "May 2022 - October 2023",
           location: "Iasi, Romania",
-          description: [
-            "⚡ Built and maintained a REST API in Python (Flask) to extract data from the OLAP Redshift Database, enabling associates to add rules and automatically raise tickets when rules are broken, saving the company over $1M per month.",
-            "⚡ Implemented and maintained a REST API to automate invoice filling for sellers, using PostgreSQL, NestJS, and TypeORM, with a PySimpleGUI interface for associates to commit states temporarily and send forms to the Amazon vendor micro-service, saving the company $500K.",
-          ],
+          description: [],
           color: "#0879bf",
-        },
-        {
-          title: "Quantitative Analyst Intern",
-          company: "Biat Asset Management",
-          company_url: "https://www.biat.com.tn",
-          logo_path: "biat_logo.png",
-          duration: "August - September 2019",
-          location: "Tunis, Tunisia",
-          description: [
-            "⚡ Developed a more realistic metric for analyzing conditional value at risk, inspired by the research of McNeil and Frey (2000).",
-            "⚡ Automated the generation of key financial indexes, including Sharpe ratios and volatility metrics, using Python programs.",
-          ],
-          color: "#0879bf",
-        },
+        }
       ],
     },
     {
