@@ -13,36 +13,46 @@ export default function Greeting(props) {
       <div className="greet-main" id="greeting">
         <div className="greeting-main">
           <div className="greeting-text-div">
-              <h1 className="greeting-text" style={{ color: theme.text }}>
-                {greeting.title} </h1>
-                <h2 className="greeting-nickname" style={{ color: theme.orangeTheme }}>
-                {greeting.nickname} </h2>
-              <p className="greeting-text-p subTitle" style={{ color: theme.secondaryText }}>
-                {greeting.subTitle}
-              </p>
-              {/*{<div className="Social"> 
+            <h1 className="greeting-text" style={{ color: theme.text }}>
+              {greeting.title}{" "}
+            </h1>
+            <h2
+              className="greeting-nickname"
+              style={{ color: theme.orangeTheme }}
+            >
+              {greeting.nickname}{" "}
+            </h2>
+            <p
+              className="greeting-text-p subTitle"
+              style={{ color: theme.secondaryText }}
+            >
+              {greeting.subTitle}
+            </p>
+            {/*{<div className="Social"> 
               SocialMedia theme={theme} </div>}*/}
 
-              <div className="portfolio-repo-btn-div">
-                <Button
-                  text="⭐ Star Me On Github"
-                  newTab={true}
-                  href={greeting.portfolio_repository}
-                  theme={theme}
-                  className="portfolio-repo-btn"
-                />
-              </div>
+            <div className="portfolio-repo-btn-div">
+              <Button
+                text="⭐ Star Me On Github"
+                newTab={true}
+                href={greeting.portfolio_repository}
+                theme={theme}
+                className="portfolio-repo-btn"
+              />
+            </div>
 
-              {/* <div className="button-greeting-div">
+            {/* <div className="button-greeting-div">
               <Button text="Contact me" href="#contact" />
               <Button text="See my resume" newTab={true} href={greeting.resumeLink} />
             </div> */}
           </div>
           <div className="greeting-image-div">
-            {<img
-							alt="Volatility Surface Exemple"
-							src={require("../../assests/images/Cubic_IVMSE.svg")}
-          ></img>}
+            {
+              <img
+                alt="Volatility Surface Exemple"
+                src={require("../../assests/images/Cubic_IVMSE.svg")}
+              ></img>
+            }
             {/*<FeelingProud theme={theme} />*/}
           </div>
         </div>

@@ -6,7 +6,11 @@ import PublicationCard from "../../components/publicationsCard/PublicationCard";
 import Button from "../../components/button/Button";
 import TopButton from "../../components/topButton/TopButton";
 import { Fade } from "react-reveal";
-import { greeting, projectsHeader, publicationsHeader } from "../../portfolio.js";
+import {
+  greeting,
+  projectsHeader,
+  publicationsHeader,
+} from "../../portfolio.js";
 import ProjectsData from "../../shared/opensource/projects.json";
 import PublicationData from "../../shared/opensource/publications.json";
 import "./Projects.css";
@@ -22,10 +26,7 @@ class Projects extends Component {
           <Fade bottom duration={2000} distance="40px">
             <div className="projects-heading-div">
               <div className="projects-heading-img-div">
-                <img
-											src={require(`../../assests/images/VaR.svg`)}
-											alt=""
-										/>
+                <img src={require(`../../assests/images/VaR.svg`)} alt="" />
                 {/* <ProjectsImg theme={theme} /> */}
               </div>
               <div className="projects-heading-text-div">

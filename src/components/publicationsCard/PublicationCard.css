@@ -30,7 +30,7 @@
 
 .publication-description {
   overflow: hidden;
-  text-align: center;  /* left */
+  text-align: center; /* left */
   display: -webkit-box; /* flex */
   font-family: "Google Sans Regular";
   -webkit-line-clamp: 2;

@@ -21,24 +21,25 @@ class PullRequestChart extends Component {
       ],
     };
 
-    return (<div className="pr-chart">
-    <Fade bottom duration={2000} distance="20px">
-      <h2 className="pr-chart-header"> Pull Requenst Chart </h2>
-    </Fade>
-    <Doughnut
-      data={data}
-      options={{
-        padding: "0",
-        margin: "0",
-        responsive: true,
-        maintainAspectRatio: true,
-        animation: {
-          duration: 4000,
-        },
-      }}
-    />
-  </div>
-  );
+    return (
+      <div className="pr-chart">
+        <Fade bottom duration={2000} distance="20px">
+          <h2 className="pr-chart-header"> Pull Requenst Chart </h2>
+        </Fade>
+        <Doughnut
+          data={data}
+          options={{
+            padding: "0",
+            margin: "0",
+            responsive: true,
+            maintainAspectRatio: true,
+            animation: {
+              duration: 4000,
+            },
+          }}
+        />
+      </div>
+    );
   }
 }
 

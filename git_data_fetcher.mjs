@@ -1,5 +1,5 @@
-import fetch from 'node-fetch';
-import fs from 'fs';
+import fetch from "node-fetch";
+import fs from "fs";
 
 const openSource = {
   githubConvertedToken: "Your Github Token Here",

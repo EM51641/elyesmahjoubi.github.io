@@ -11,12 +11,10 @@ class OpensourceCharts extends Component {
       <div>
         <div className="os-charts-header-div">
           <Fade bottom duration={2000} distance="20px">
-            <h1 className="os-charts-header" style={{ color: theme.text }}>
-            </h1>
+            <h1 className="os-charts-header" style={{ color: theme.text }}></h1>
           </Fade>
         </div>
-        <div className="os-charts-body-div">
-        </div>
+        <div className="os-charts-body-div"></div>
       </div>
     );
   }
