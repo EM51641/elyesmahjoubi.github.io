@@ -253,11 +253,31 @@ const experience = {
       title: "Work",
       experiences: [
         {
+          title: "Founding Engineer",
+          company: "MyLift",
+          company_url: "https://www.mylift.com",
+          logo_path: "mylift_logo.svg",
+          duration: "February 2026 - Present",
+          location: "Dublin, Ireland",
+          description: [],
+          color: "#0879bf",
+        },
+        {
+          title: "Software Engineer",
+          company: "Millennium",
+          company_url: "https://www.mlp.com",
+          logo_path: "millennium_logo.svg",
+          duration: "December 2025 - February 2026",
+          location: "Dublin, Ireland",
+          description: [],
+          color: "#0879bf",
+        },
+        {
           title: "Software Engineer",
           company: "Gartner",
           company_url: "https://www.gartner.com",
           logo_path: "gartner_logo.svg",
-          duration: "From January 2024",
+          duration: "January 2024 - November 2025",
           location: "Barcelona, Spain",
           description: [],
           color: "#0879bf",
@@ -271,7 +291,7 @@ const experience = {
           location: "Iasi, Romania",
           description: [],
           color: "#0879bf",
-        }
+        },
       ],
     },
     {
